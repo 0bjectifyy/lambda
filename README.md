@@ -1,7 +1,7 @@
 # Rubinus
 Current version: `version-fe753b2355636412`
 
-# Script:
+# How to use:
 
 Open the file in vs and download either extensions https://marketplace.visualstudio.com/items?itemName=monte-h8r.awp-helper or https://marketplace.visualstudio.com/items?itemName=CoIorEvent8.synz  
   
